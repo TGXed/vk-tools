@@ -1,0 +1,29 @@
+{
+  "name": "vk-tools",
+  "version": "1.0.0",
+  "description": "Node.JS tools for vk.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGXed/vk-tools.git"
+  },
+  "keywords": [
+    "vk",
+    "tools",
+    "vkontakte",
+    "autostatus",
+    "online"
+  ],
+  "author": "TGX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TGXed/vk-tools/issues"
+  },
+  "homepage": "https://github.com/TGXed/vk-tools#readme",
+  "types": "index.d.ts",
+  "dependencies": {
+    "node-fetch": "^2.5.0",
+    "querystring": "^0.2.0"
+  }
+}
